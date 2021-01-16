@@ -1,0 +1,9 @@
+.btn {
+  border: 3px solid navy;
+  color: navy;
+  background-color: #fff;
+  margin: 0.25rem;
+  font-size: 1.1rem;
+  padding: 0.25rem .75rem;
+  border-radius: 5px;
+}
